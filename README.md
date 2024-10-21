@@ -1,4 +1,4 @@
-# OpenMP and MPI Matrix Multiplication
+![image](https://github.com/user-attachments/assets/d2d5db43-e427-4f1c-9b4b-15abd581c418)# OpenMP and MPI Matrix Multiplication
 
 This README documents the commands, steps, and hardware characteristics for running OpenMP and MPI matrix multiplication programs.
 
@@ -125,7 +125,8 @@ Number of processes: 4
 - **Swap Usage:** 2048 MiB total, 2048 MiB free
 - **CPU Utilization:** 0.0% user, 0.0% system, 0.0% nice, 100.0% idle
 
-![CPU Utilization Information](image3.png)
+![CPU Utilization Information](![image](https://github.com/user-attachments/assets/399846eb-5872-46f9-9f0f-c8c2199062a2)
+)
 
 ![Memory Usage Information](image4.png)
 
