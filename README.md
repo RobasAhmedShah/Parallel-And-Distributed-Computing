@@ -124,17 +124,18 @@ Number of processes: 4
 - **Memory Usage:** 818.8 MiB used, 238.8 MiB buff/cache
 - **Swap Usage:** 2048 MiB total, 2048 MiB free
 - **CPU Utilization:** 0.0% user, 0.0% system, 0.0% nice, 100.0% idle
+![image](https://github.com/user-attachments/assets/51225517-da60-4573-9000-8b7aa3f390a8)
 
-![CPU Utilization Information](![image](https://github.com/user-attachments/assets/399846eb-5872-46f9-9f0f-c8c2199062a2)
-)
+![image](https://github.com/user-attachments/assets/2118502e-a920-4b53-bacf-15b7e34f94ee)
 
-![Memory Usage Information](image4.png)
 
-![Disk Usage Information](image5.png)
+![image](https://github.com/user-attachments/assets/e2ff049b-864f-4fde-af3a-f74dd3c794ae)
+
 
 ## Task 3: CPU-Z Report
 
 For detailed CPU information, please refer to the CPU-Z report.
 
-![CPU-Z Report](image6.png)
+![image](https://github.com/user-attachments/assets/d34b2679-da9a-4ebe-836f-99e0379b1dbe)
+
 
