@@ -136,6 +136,6 @@ Number of processes: 4
 
 For detailed CPU information, please refer to the CPU-Z report.
 
-![image](https://github.com/user-attachments/assets/d34b2679-da9a-4ebe-836f-99e0379b1dbe)
+[View CPU-Z Report](https://htmlpreview.github.io/?https://github.com/RobasAhmedShah/Parallel-And-Distributed-Computing/blob/main/CPUZ-Report.html)
 
 
