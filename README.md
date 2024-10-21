@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d2d5db43-e427-4f1c-9b4b-15abd581c418)# OpenMP and MPI Matrix Multiplication
+# OpenMP and MPI Matrix Multiplication
 
 This README documents the commands, steps, and hardware characteristics for running OpenMP and MPI matrix multiplication programs.
 
