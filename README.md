@@ -20,7 +20,7 @@ gcc -o openmp_serial openmp_serial.c -fopenmp
 
 **Output:**
 ```
-Execution time: 0.014685 seconds
+Execution time: 0.012750 seconds
 Number of threads used: 4
 ```
 
@@ -41,7 +41,7 @@ gcc -o openmp_matrix openmp_matrix.c -fopenmp
 **Output:**
 ```
 Matrix multiplication completed.
-Execution time: 0.215744 seconds
+Execution time: 0.002565 seconds
 Number of threads used: 4
 ```
 
@@ -91,10 +91,11 @@ Matrix multiplication completed.
 Execution time: 0.001732 seconds
 Number of processes: 4
 ```
+![image](https://github.com/user-attachments/assets/3887072d-0506-4496-a2fc-1346cc644c7a)
 
-![image](https://github.com/user-attachments/assets/8f6367ca-dbcd-4a02-91f9-94a65bed88e3)
 
-![image](https://github.com/user-attachments/assets/6a44a020-4812-42f1-9978-182785eed0c3)
+![image](https://github.com/user-attachments/assets/290f481a-72a5-4f48-a679-212e8a0c183a)
+
 
 
 ## Task 2: Hardware Characteristics
