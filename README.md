@@ -92,9 +92,10 @@ Execution time: 0.001732 seconds
 Number of processes: 4
 ```
 
-![MPI Matrix Multiplication Output](image1.png)
+![image](https://github.com/user-attachments/assets/8f6367ca-dbcd-4a02-91f9-94a65bed88e3)
 
-![Additional Output Information](image2.png)
+![image](https://github.com/user-attachments/assets/6a44a020-4812-42f1-9978-182785eed0c3)
+
 
 ## Task 2: Hardware Characteristics
 
